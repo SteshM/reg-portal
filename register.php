@@ -1,7 +1,9 @@
 <?php
 // Include config file
 require_once "config.php";
- 
+//my first php project in php
+//i love programming
+//php is an interpreted language not compiled
 // Define variables and initialize with empty values
 $username = $password = $confirm_password = "";
 $username_err = $password_err = $confirm_password_err = "";
